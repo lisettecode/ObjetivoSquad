@@ -1,8 +1,8 @@
 function calcular()
 {
-	var puntosSquad = document.getElementById("punto_squad").value;
-	var maxPuntos = document.getElementById("max_puntos").value;
-	//(100 * punto_squad) / max_puntos
+	var puntosSquad = document.getElementById("PuntoSquad").value;
+	var maxPuntos = document.getElementById("PuntajeMaximo").value;
+	//(100 * PuntoSquad) / PuntajeMaximo
 	var porcentajeSquad = (100 * puntosSquad) / maxPuntos;
 
 	if(porcentajeSquad >= 80)

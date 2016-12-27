@@ -4,9 +4,9 @@ Objetivo Squad
 Inicio: Calcular porcentaje del Squad
 
 ## Ingreso Datos
-- punto_squad
-- max_puntos
-- porcentaje_squad
+- PuntoSquad
+- PuntajeMaximo
+- PorcentajeSquad
 
 ## Proceso
 - Pedir punto_squad
